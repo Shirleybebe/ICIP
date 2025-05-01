@@ -6,7 +6,7 @@ Fig1: The visualization of Grad-CAM extracted from the detector on face images (
 
 Ps: This is a comparison of Grad-CAM with and without the ATEM and ESCM modules to verify that the method in this paper effectively guides and enhances the robustness of the model.
 
-![abla](https://github.com/user-attachments/assets/2e9fcd17-e19e-49a6-baf7-43b3136fda6b)
+![abla](https://github.com/user-attachments/assets/9f60238f-6903-47fc-97da-8f18b8f6d191)
 
 Tab1: Lax accuray on facial components and attributes datasets results under different level of perturbations.
 
